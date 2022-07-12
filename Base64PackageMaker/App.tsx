@@ -27,7 +27,7 @@ const App = () => {
   //LogBox.ignoreAllLogs(); //Ignore all log notifications
   const [logs, setLogs] = useState([""]);
   const [operation, setOperation] = useState("Create Package" as "Create Package" | "Read Package");
-  const [key, setKey] = useState("NovelManager.App.Encryption");
+  const [key, setKey] = useState("125.223.Encryption");
   return (
     <View style={{ flex: 1 }}>
       <View style={{ flexDirection: "row" }}>
