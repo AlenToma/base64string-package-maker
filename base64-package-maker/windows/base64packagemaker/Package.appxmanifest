@@ -11,7 +11,7 @@
   <Identity
     Name="e237e304-4545-4bc9-b3e6-f35a4b77e8f9"
     Publisher="CN=Alen Toma"
-    Version="1.0.4.0" />
+    Version="1.0.6.0" />
 
   <mp:PhoneIdentity PhoneProductId="e237e304-4545-4bc9-b3e6-f35a4b77e8f9" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
